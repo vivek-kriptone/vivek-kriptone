@@ -1,15 +1,15 @@
 ![MasterHead](https://thumbs.gfycat.com/AdorableImportantCaecilian-max-1mb.gif)
 
 <h1 align="center">Hi 👋, I'm Vivek Solanki</h1>
-<h3 align="center">A passionate frontend developer from Khategaon India.</h3>
+<h3 align="center">A passionate Frontend and React Native developer from Khategaon India.</h3>
 
 <img align="right" alt="code" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **HR-Portal**
+- 🔭 I’m currently working on a mobile application **EduKation**
 
 - 🌱 I’m currently learning **Nodejs and API Creating**
 
-- 💬 Ask me about **React, Redux and Node**
+- 💬 Ask me about **React, Redux, React Native and Node**
 
 - 📫 How to reach me **viveksolanki7772@gmail.com**
 
